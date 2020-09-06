@@ -1,8 +1,8 @@
-#Hi Bro 👋👋
+# Hi Bro 👋👋
 
-###You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
+### You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
 
-![github-large](https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg?raw=true)
+![doge](https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg?raw=true)
 <!--
 **DogeCnx/DogeCnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
