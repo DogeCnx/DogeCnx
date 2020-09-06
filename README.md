@@ -1,4 +1,6 @@
-### You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
+#Hi Bro 👋👋
+
+###You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
 
 ![github-large](https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg?raw=true)
 <!--
