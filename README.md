@@ -1,7 +1,7 @@
 ### You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
 
 
-![](profile.jpg)
+![github-large](profile.jpg)
 <!--
 **DogeCnx/DogeCnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
