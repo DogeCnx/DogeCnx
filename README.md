@@ -3,6 +3,12 @@
 ### You shall not pass ❌ ❌ ❌ :: Dorime Ameno 🙏🙏
 
 ![doge](https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg?raw=true)
+
+
+
+## Project DII VS Me
+![github-large](https://github.com/DogeCnx/DogeCnx/blob/master/giphy.gif?raw=true)
+
 <!--
 **DogeCnx/DogeCnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
