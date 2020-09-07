@@ -6,7 +6,7 @@
 
 
 
-# Project DII🔥🔥🔥 VS Me  😀😤😠😡🤯🥱🥴😵🤢🤮💀
+# Project DII 🔥🔥🔥 VS Me 💀💀💀
 ![github-large](https://github.com/DogeCnx/DogeCnx/blob/master/giphy.gif?raw=true)
 
 <!--
