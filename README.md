@@ -9,7 +9,6 @@
 # Project DII 🔥🔥🔥 VS Me 💀💀💀
 
 ![github-large](https://github.com/DogeCnx/DogeCnx/blob/master/giphy.gif?raw=true)
-![github-large](https://youtu.be/kLaaJ_aeoyM)
 
 <!--
 **DogeCnx/DogeCnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
