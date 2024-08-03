@@ -10,7 +10,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently working as an Full Stack Developer @AppMan
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me:
-    - <a href="[https://www.linkedin.com/in/taranjit-singh-baa036184](https://www.linkedin.com/in/thiraphat-saetang-8721a6204/)">
+    - <a href="[https://www.linkedin.com/in/thiraphat-saetang-8721a6204](https://www.linkedin.com/in/thiraphat-saetang-8721a6204/)">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     - <a href="mailto:Thiraphat.re0096@gmail.com">
