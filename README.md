@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg?raw=true)" width="50%"/>
+    <img src="https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg" width="50%"/>
 </div>
 
 ---
