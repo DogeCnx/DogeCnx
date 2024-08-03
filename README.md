@@ -7,18 +7,21 @@
 ### About Me
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. I love to explore and learn about new things.
 - 👀 I’m interested in web development
-- 🌱 I’m currently working as an Full Stack Developer @AppMan
+- 🌱 I’m currently working as a Full Stack Developer @AppMan
 - 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me:
-    - <a href="[https://www.linkedin.com/in/thiraphat-saetang-8721a6204](https://www.linkedin.com/in/thiraphat-saetang-8721a6204/)">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-    - <a href="mailto:Thiraphat.re0096@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-        </a>
+- 📫 How to reach me: No one can reach me.
+
+<h3 align="left">🚀 My Stats</h3>
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=wintory&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wintory&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/wintory/wintory/output/snake.svg" alt="Snake animation" />
+</div>
 
 
----
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=dogeCnx&theme=radical&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogeCnx)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">🏆 GitHub Trophies</h3>
+<br/>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=wintory&theme=radical&no-frame=false&no-bg=true&margin-w=4)"/></div>
+<br/>
