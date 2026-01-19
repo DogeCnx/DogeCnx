@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-    <img width="2080" height="2048" alt="approve" src="https://github.com/user-attachments/assets/fcc5430c-29ad-4677-844b-4513f4dbfaae" />
+    <img width="60%" classname alt="approve" src="https://github.com/user-attachments/assets/a4e29459-9d4f-4523-b276-7dd83560ac3f" />
+
 
 </div>
 
