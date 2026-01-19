@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
-    <img src="https://github.com/DogeCnx/DogeCnx/blob/master/profile.jpg" width="50%"/>
+    <img width="2080" height="2048" alt="approve" src="https://github.com/user-attachments/assets/fcc5430c-29ad-4677-844b-4513f4dbfaae" />
+
 </div>
 
 ---
